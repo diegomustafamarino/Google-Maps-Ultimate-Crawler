@@ -7,7 +7,7 @@ Siga os passos abaixo para configurar e executar o projeto **Google Maps Ultimat
 
 ### 1. Copie a pasta
 
-Descompacte o arquivo dividido em partes com seu winrar e descompacte de novo em seguida. Copie a pasta **Navigators** para o diretório `C:` do seu computador.
+Descompacte o arquivo Navigators dividido em partes com seu winrar e descompacte de novo em seguida. Copie a pasta **Navigators** para o diretório `C:` do seu computador.
 
 ### 2. Instale as Dependências
 
