@@ -7,7 +7,7 @@ Siga os passos abaixo para configurar e executar o projeto **Navigators** em seu
 
 ### 1. Copie a pasta
 
-Copie a pasta **Navigators** para o diretório `C:` do seu computador.
+Descompacte o arquivo com seu winrar e Copie a pasta **Navigators** para o diretório `C:` do seu computador.
 
 ### 2. Instale as Dependências
 
