@@ -1,9 +1,9 @@
 
-# Navigators
+# Google Maps Ultimate Crawler
 
 ## Instalação e Configuração
 
-Siga os passos abaixo para configurar e executar o projeto **Navigators** em seu computador.
+Siga os passos abaixo para configurar e executar o projeto **Google Maps Ultimate Crawler** em seu computador.
 
 ### 1. Copie a pasta
 
